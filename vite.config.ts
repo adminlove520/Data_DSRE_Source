@@ -30,7 +30,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: "docs",
+    outDir: "./docs/dist",
     rollupOptions: {
       output: {
         manualChunks: {
