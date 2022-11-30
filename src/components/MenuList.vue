@@ -65,7 +65,7 @@ if (
     class="hidden-sm-and-down"
   >
     <div>
-      <img src="@/assets/logo.jpg" class="logo" alt="JDArmy DSRE" />
+      <img src="@/assets/logo.jpg" class="logo" alt="DATA DSRE" />
     </div>
 
     <div>
